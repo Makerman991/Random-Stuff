@@ -26,7 +26,8 @@ ECHO.
 ECHO.
 SET /p "Magick_User_Path=Enter path to magick.exe: "
 SET Magick_Path=%Magick_User_Path:"=%
-if not exist "%Magick_Path%" (
+SET Magick_Path=%Magick_Path:.exe=%
+if not exist "%Magick_Path%.exe" (
     ECHO exe path Invaild. Try again.
     goto User_Magick_Path
 )
