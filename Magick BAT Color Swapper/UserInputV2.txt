@@ -1,0 +1,35 @@
+|
+|Magick Path:
+|"C:\Program Files\ImageMagick-7.1.2-Q16-HDRI\magick.exe"
+|C:\Program Files\ImageMagick-7.1.2-Q16-HDRI\magick.exe
+|
+C:\Program Files\ImageMagick-7.1.2-Q16-HDRI\magick.exe
+|
+|Folder Path:
+|"C:\Users\Makerman991\Downloads\Doloc Town\"
+|C:\Users\Makerman991\Downloads\Test
+|
+C:\Users\Makerman991\Downloads\Test
+|
+|Extension:
+|png
+|".jpg"
+|"jpeg"
+|
+png
+|
+|Colors:
+|ffffff
+|"fff000"
+|"#000000"
+|
+ffffff
+ffffff
+ffffff
+ffffff
+ffffff
+ffffff
+ffffff
+ffffff
+ffffff
+ffffff
