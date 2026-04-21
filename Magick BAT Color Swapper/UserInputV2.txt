@@ -23,13 +23,18 @@ png
 |"fff000"
 |"#000000"
 |
+|Color 1 old to new
 ffffff
 ffffff
+|Color 2 old to new
 ffffff
 ffffff
+|Color 3 old to new
 ffffff
 ffffff
+|Color 4 old to new
 ffffff
 ffffff
+|Color 5 old to new
 ffffff
 ffffff
