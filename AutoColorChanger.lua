@@ -49,6 +49,7 @@ do
                 to=Color{h=360,s=1.0,v=1,a=255}
             }
             app.command.SaveFile{}
+            app.command.CloseFile{}
         end -- Remove or comment out --
     end 
 end
